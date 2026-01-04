@@ -15,7 +15,7 @@ body {
   letter-spacing: 0.03em;
 }
 .web {
-  color: #141a57;
+  color: ##4d5ae5;
 }
 .studio {
   color: #2e2f42;
@@ -47,7 +47,7 @@ h1 {
   background-color: #2e2f42;
 }
 .hero button {
-  background-color: #2e2f42;
+  background-color: #4d5ae5;
   font-size: 16px;
   cursor: pointer;
   color: #ffffff;
@@ -99,7 +99,7 @@ h1 {
 }
 
 footer {
-  background-color: #434343;
+  background-color: #2e2f42;
 }
 footer p {
   font-size: 16px;
@@ -107,4 +107,7 @@ footer p {
   color: #f4f4fd;
   line-height: 1.5;
   letter-spacing: 0.02em;
+}
+.studio-1 {
+  color: #f4f4fd;
 }
